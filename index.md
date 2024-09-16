@@ -6,7 +6,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/pv-panels/)
 
-Following an exploration analysis of two PV panels in India over 35 days, I forecasted the DC power output over the next 7 days.
+In this time-series forecasting project, I conducted an explorative analysis and performance evaluation of two PV panels in India over 35 days, from a dataset downloaded from Kaggle. Then, using XGBoost, I forecasted the DC power output over the next 7 days.
 
 <center><img src="images/pv-panels.png"/></center>
 
@@ -16,7 +16,9 @@ Following an exploration analysis of two PV panels in India over 35 days, I fore
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/rsa-thesis/)
 
-Previous research ([Smith and Goodale, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4380001/)) has shown that haptic information of a familiar object can be predicted in the brain, even if you were only looking at the object without touching it. Interestingly, this is not the case for unfamiliar objects.
+Have you ever anticipated what a fuzzy rug feels like without necessarily touching that specific rug before? Your predictions are usually not too far off, right?
+Previous research ([Smith and Goodale, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4380001/)) showed that haptic information of a familiar object can be predicted in the brain, just by looking at it. Interestingly, this is not the case for unfamiliar objects we've never seen before.
+
 At the Muckli Lab, we wanted to find out whether haptic representations of unfamiliar objects changed after allowing participants to interact with a 3D-printed version of the unfamiliar objects, using 7-Tesla fMRI.
 Particular to my bachelor's thesis project, I used a method of multivariate pattern analysis called Representational Similarity Analysis, and bootstrap simulation to compare the neural representations of these different objects.
 
