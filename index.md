@@ -16,7 +16,7 @@ In this time-series forecasting project, I conducted an explorative analysis and
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/rsa-thesis/)
 
-Have you ever anticipated what a fuzzy rug feels like without necessarily touching that specific rug before? Your predictions are usually not too far off, right?
+Have you ever looked at a fuzzy rug and anticipated what it felt like, without necessarily having felt it before? What you predicted it to feel like, would usually not be too far off the mark.
 
 Previous research ([Smith and Goodale, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4380001/)) showed that haptic information of a familiar object can be predicted in the brain, just by looking at it. Interestingly, this is not the case for unfamiliar objects we've never seen before.
 
