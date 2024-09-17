@@ -2,7 +2,7 @@
 ---
 ## Data Science
 
-### PV Performance Analysis and Forecasting using XGBoost, 2024
+### PV Performance Analysis and Forecasting using XGBoost
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/pv-panels/)
 
@@ -12,7 +12,7 @@ In this time-series forecasting project, I conducted an explorative analysis and
 
 ---
 
-### Multivariate Pattern Analysis and Bootstrap Simulation of Neural Representations of Objects, 2023-2024
+### Multivariate Pattern Analysis and Bootstrap Simulation of Neural Representations of Objects
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/rsa-thesis/)
 
@@ -27,7 +27,7 @@ Particular to my bachelor's thesis project, I used a method of multivariate patt
 
 ---
 
-### Interactive user interface presenting natural images containing object occlusions, using Streamlit, 2023
+### Interactive user interface presenting natural images containing object occlusions, using Streamlit
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/occlusions/)
 
@@ -37,7 +37,7 @@ Under the lead of Dr Benjamin Peters, a postdoctorate researcher at the Centre f
 
 ---
 
-### Correlation between Opposing Valence Items in Psychometric Measures, 2022
+### Correlation between Opposing Valence Items in Psychometric Measures
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/corr_valence/)
 
@@ -53,7 +53,7 @@ I conducted the following analyses on R:
 
 ---
 
-### Correlation between Voice Pitch and Perceived Competence, 2021
+### Correlation between Voice Pitch and Perceived Competence
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/corr_voicepitch-competence/)
 
