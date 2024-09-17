@@ -49,7 +49,7 @@ I conducted the following analyses on R:
 - using for-loops to separate valenced items and generate a mean score per item and participant
 - obtaining the correlation between valenced items and its p-values
 
-<center><img src="images/corr_valence"/></center>
+<center><img src="images/corr_valence.png"/></center>
 
 ---
 
@@ -59,6 +59,6 @@ I conducted the following analyses on R:
 
 Using the data from the Mahrholz et al. 2018 study, we investigated the correlation between voice pitch and their perceived competence in female and male speakers. I conducted the analysis on R, performing a student's t-test, power analysis and Pearson's correlation test.
 
-<center><img src="images/corr_voicepitch-competence"/></center>
+<center><img src="images/corr_voicepitch-competence.png"/></center>
 
 ---
