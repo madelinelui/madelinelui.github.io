@@ -47,6 +47,8 @@ As a preliminary stage to the project, Dr Benjamin Peters and I used the large C
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/corr_valence/)
 
+Do you ever respond differently to a question depending on how it's asked? If you give me a glass of water and either asked me the proportion of how "empty" it was, or how "full" it was, do you think I would respond equally to both questions?
+
 This project investigates whether valence in psychometric scales really matters by using the 44-item Big Five Inventory and the SELSA measure for loneliness. The raw dataset is from an unpublished dataset by Gube and Barsalou (2020).
 
 I conducted the following analyses on R:
@@ -62,6 +64,8 @@ I conducted the following analyses on R:
 ### Correlation between Voice Pitch and Perceived Competence
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/corr_voicepitch-competence/)
+
+If you heard a deep voice speaking, what would you deduce about their competence? Now, think of a high-pitched voice. How would you perceive this person's competence?
 
 Using the data from the Mahrholz et al. 2018 study, we investigated the correlation between voice pitch and their perceived competence in female and male speakers. I conducted the analysis on R, performing a student's t-test, power analysis and Pearson's correlation test.
 
