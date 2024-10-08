@@ -6,7 +6,9 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/pv-panels/)
 
-In this time-series forecasting project, I conducted an explorative analysis and performance evaluation of two PV panels in India over 35 days, from a dataset downloaded from Kaggle. Then, using XGBoost, I forecasted the DC power output over the next 7 days.
+Wouldn't it be very useful to know when we need to maintain our equipment before a breakdown?
+
+In this time-series forecasting project, I conducted an explorative analysis and performance evaluation of two PV panels in India over 35 days, from a dataset from Kaggle. Then, using XGBoost, I forecasted the DC power output over the next 7 days.
 
 <center><img src="images/pv-panels.png"/></center>
 
@@ -16,7 +18,7 @@ In this time-series forecasting project, I conducted an explorative analysis and
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/rsa-thesis/)
 
-Have you ever looked at a fuzzy rug and anticipated what it felt like, without necessarily having felt it before? What you predicted it to feel like, would usually not be too far off the mark.
+Have you ever looked at a fuzzy rug and anticipated what it felt like, without necessarily having felt it before? What you predicted would probably not be too far off the mark.
 
 Previous research ([Smith and Goodale, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4380001/)) showed that haptic information of a familiar object can be predicted in the brain, just by looking at it. Interestingly, this is not the case for unfamiliar objects we've never seen before.
 
@@ -31,7 +33,11 @@ Particular to my bachelor's thesis project, I used a method of multivariate patt
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/madelinelui/occlusions/)
 
-Under the lead of Dr Benjamin Peters, a postdoctorate researcher at the Centre for Cognitive Neuroimaging at the time, we conducted explorative analysis on the large Common Objects in Context (COCO) dataset and identified occluded objects from image depth using the ZoeDepth model. Finally, we designed an interactive interface using Streamlit to showcase images with object occlusions.
+Did you know, that if an object, i.e., a bookshelf, is partially occluded by another, i.e., a mug, the human brain can predictively complete the occluded imagery of the bookshelf?
+
+We know this to be true from previous research. However, most experimental set-ups feature monochrome images with a white rectangle on the lower right corner. What if we used object occlusions in natural images, e.g., a snapshot of your work desk ?
+
+As a preliminary stage to the project, Dr Benjamin Peters and I used the large Common Objects in Context dataset of over 200K labelled images. We conducted an explorative analysis and automated an image detection for occluded objects using the ZoeDepth model for image depth. Finally, we developed an interactive interface using Streamlit to showcase images with object occlusions.
 
 <center><img src="images/occlusions.png"/></center>
 
