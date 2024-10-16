@@ -8,7 +8,7 @@
 
 Wouldn't it be very useful to know when we need to maintain our equipment before a breakdown?
 
-In this time-series forecasting project, I conducted an explorative analysis and performance evaluation of two PV panels in India over 35 days, from a dataset from Kaggle. Then, using XGBoost, I forecasted the DC power output over the next 7 days.
+In this time-series forecasting project, I conducted an explorative analysis and performance evaluation of two PV panels in India over 35 days. Then, I forecasted the DC power output from Time, Irradiation and Module Temperature over the next 7 days. The ARIMA, Seasonal ARIMA and XGBoost models were used to compare accuracy performance on the predictions.
 
 <center><img src="images/pv-panels.png"/></center>
 
