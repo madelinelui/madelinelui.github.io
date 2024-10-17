@@ -8,7 +8,7 @@
 
 Wouldn't it be very useful to know when we need to maintain our equipment before a breakdown?
 
-I conducted an explorative analysis of two PV panels and sensors in India over 35 days, evaluating the performance ratio and conversion efficiency.
+I conducted an explorative analysis of two PV panels and sensors in India over 35 days, evaluating the performance ratio and conversion efficiency for data-driven recommendations of equipment maintenance.
 
 Then, I forecasted DC power output from Time, Irradiation and Module Temperature over the next 7 days. ARIMA, Seasonal ARIMA and XGBoost models were used to compare accuracy performance on the predictions. Ultimately, using XGBoost, I improved the model accuracy by over 80% compared to the Seasonal ARIMA model.
 
